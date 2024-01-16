@@ -1,0 +1,3 @@
+[submodule ".config/fish/fish"]
+	path = .config/fish/fish
+	url = https://github.com/honga2/.dotfiles.git
